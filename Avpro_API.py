@@ -1,3 +1,6 @@
-import pyzabbix
+import requests
+import json
+
+
 
 
